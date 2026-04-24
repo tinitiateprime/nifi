@@ -2,6 +2,6 @@
 
 # NiFi
 
-&copy; TINITIATE.COM
+> Venkata Bhattaram & Jay Kumsi &copy; TINITIATE.COM
 
 ## Introduction to NiFi
