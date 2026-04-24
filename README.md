@@ -1,5 +1,6 @@
-<img width="1772" height="368" alt="nifi" src="https://github.com/user-attachments/assets/41a05e29-28d7-468a-a753-978999f7abd5" />
-**NiFi**
+<img width="1772" height="368" alt="nifi" src="https://github.com/user-attachments/assets/9ea81f67-2e8f-4aac-b363-2ca45c308830" />
+
+# NiFi
 
 &copy; TINITIATE.COM
 
